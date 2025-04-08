@@ -10,6 +10,7 @@ capstone
 gmpy2
 pycryptodome
 bitstring
+gdb
 xxtea
 pyzbar
 Pillow
