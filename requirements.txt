@@ -14,7 +14,7 @@ scapy
 dpkt
 python-nmap
 paramiko
-magic
+python-magic
 rich
 transformers
 openai
