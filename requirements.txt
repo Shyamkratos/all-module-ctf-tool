@@ -2,7 +2,7 @@ requests
 urllib3
 bs4
 pwntools
-struct
+
 capstone
 gmpy2
 pycryptodome
