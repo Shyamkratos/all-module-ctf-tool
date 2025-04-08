@@ -2,6 +2,7 @@ flask
 requests
 urllib3
 pycryptodome==3.20.0
+AES
 bs4
 pwntools
 capstone
